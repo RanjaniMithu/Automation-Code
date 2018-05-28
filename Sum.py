@@ -1,4 +1,4 @@
-i=int(input("Enter the Value"))
+i=int(input(""))
 if i<0:
   print("Enter a Positive Number")
 else:
