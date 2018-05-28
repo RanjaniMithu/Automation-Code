@@ -1,9 +1,9 @@
 
 <html>
   <body>
-    <script>
-//document.getElementById("demo").innerHTML="Hello World";
-console.log("Hello World");
+    <script type="text/javascript">
+      document.write("Hello World");
+      console.log("Hello World");
   </script>
  </body>
 </html>
